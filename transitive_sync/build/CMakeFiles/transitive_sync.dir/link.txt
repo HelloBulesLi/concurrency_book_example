@@ -1,0 +1,1 @@
+/usr/bin/c++  -std=c++17 -O3 -g   CMakeFiles/transitive_sync.dir/transitive_sync.cpp.o  -o transitive_sync  -lpthread 

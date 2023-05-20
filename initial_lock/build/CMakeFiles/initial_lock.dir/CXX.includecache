@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/libo/Modern_Cplusplus/concurrency_book_code/initial_lock/initial_lock.cpp
+thread
+-
+iostream
+-
+string
+-
+mutex
+-
+

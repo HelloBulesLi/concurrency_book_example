@@ -1,0 +1,1 @@
+/usr/bin/c++  -std=c++17 -O3 -g   CMakeFiles/normal_fence.dir/normal_fence.cpp.o  -o normal_fence  -lpthread 

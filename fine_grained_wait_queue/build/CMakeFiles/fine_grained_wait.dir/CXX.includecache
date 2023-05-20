@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/libo/Modern_Cplusplus/concurrency_book_code/fine_grained_wait_queue/fine_grained_wait.cpp
+memory
+-
+mutex
+-
+thread
+-
+chrono
+-
+iostream
+-
+condition_variable
+-
+

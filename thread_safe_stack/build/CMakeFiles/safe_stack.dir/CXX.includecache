@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/libo/Modern_Cplusplus/concurrency_book_code/thread_safe_stack/safe_stack.cpp
+exception
+-
+stack
+-
+mutex
+-
+memory
+-
+thread
+-
+chrono
+-
+iostream
+-
+

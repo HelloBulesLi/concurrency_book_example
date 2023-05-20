@@ -1,0 +1,1 @@
+/usr/bin/c++  -std=c++17 -O3 -g   CMakeFiles/fine_grained_wait.dir/fine_grained_wait.cpp.o  -o fine_grained_wait  -lpthread 

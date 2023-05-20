@@ -1,0 +1,1 @@
+/usr/bin/c++  -std=c++17 -O3 -g   CMakeFiles/wait_stack.dir/wait_stack.cpp.o  -o wait_stack  -lpthread 

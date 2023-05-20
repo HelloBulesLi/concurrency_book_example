@@ -1,0 +1,1 @@
+/usr/bin/c++  -std=c++14 -O3 -g   CMakeFiles/detach.dir/detach.cpp.o  -o detach  -lpthread 

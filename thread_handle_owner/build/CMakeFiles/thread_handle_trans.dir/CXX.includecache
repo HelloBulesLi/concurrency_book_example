@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/libo/Modern_Cplusplus/concurrency_book_code/thread_handle_owner/thread_handle_trans.cpp
+thread
+-
+iostream
+-
+string
+-
+memory
+-
+

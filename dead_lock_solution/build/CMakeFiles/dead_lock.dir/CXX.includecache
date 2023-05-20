@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/libo/Modern_Cplusplus/concurrency_book_code/dead_lock_solution/dead_lock.cpp
+iostream
+-
+string
+-
+thread
+-
+mutex
+-
+

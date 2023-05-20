@@ -1,0 +1,1 @@
+/usr/bin/c++  -std=c++17 -O3 -g   CMakeFiles/atomic_flag.dir/atomic_flag.cpp.o  -o atomic_flag  -lpthread 

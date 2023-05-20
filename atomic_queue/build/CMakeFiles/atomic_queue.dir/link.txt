@@ -1,0 +1,1 @@
+/usr/bin/c++  -std=c++17 -O3 -g   CMakeFiles/atomic_queue.dir/atomic_queue.cpp.o  -o atomic_queue  -lpthread 

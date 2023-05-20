@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/libo/Modern_Cplusplus/concurrency_book_code/condition_variable/process_queue.cpp
+iostream
+-
+string
+-
+mutex
+-
+queue
+-
+condition_variable
+-
+thread
+-
+chrono
+-
+

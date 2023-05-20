@@ -1,0 +1,1 @@
+/usr/bin/c++  -std=c++14 -O3 -g   CMakeFiles/pass_param.dir/pass_param.cpp.o  -o pass_param  -lpthread 

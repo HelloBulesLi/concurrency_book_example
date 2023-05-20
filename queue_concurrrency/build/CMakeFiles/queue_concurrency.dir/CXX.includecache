@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/libo/Modern_Cplusplus/concurrency_book_code/queue_concurrrency/queue_concurrency.cpp
+exception
+-
+memory
+-
+mutex
+-
+stack
+-
+iostream
+-
+thread
+-
+

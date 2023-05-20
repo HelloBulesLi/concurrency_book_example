@@ -1,0 +1,1 @@
+/usr/bin/c++  -std=c++17 -O3 -g   CMakeFiles/rw_relax.dir/rw_relax.cpp.o  -o rw_relax  -lpthread 

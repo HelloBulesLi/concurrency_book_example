@@ -1,0 +1,1 @@
+/usr/bin/c++  -std=c++17 -O3 -g   CMakeFiles/threadsafe_queue.dir/threadsafe_queue.cpp.o  -o threadsafe_queue  -lpthread 

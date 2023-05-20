@@ -1,0 +1,1 @@
+/usr/bin/c++  -std=c++17 -O3 -g   CMakeFiles/spin_lock.dir/spin_lock.cpp.o  -o spin_lock  -lpthread 

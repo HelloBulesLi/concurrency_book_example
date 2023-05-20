@@ -1,0 +1,1 @@
+/usr/bin/c++  -std=c++17 -O3 -g   CMakeFiles/barrier.dir/barrier.cpp.o  -o barrier  /usr/lib/x86_64-linux-gnu/libboost_thread.so.1.71.0 -lpthread /usr/lib/x86_64-linux-gnu/libboost_atomic.so.1.71.0 

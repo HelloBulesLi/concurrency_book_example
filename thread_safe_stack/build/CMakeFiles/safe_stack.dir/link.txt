@@ -1,0 +1,1 @@
+/usr/bin/c++  -std=c++17 -O3 -g   CMakeFiles/safe_stack.dir/safe_stack.cpp.o  -o safe_stack  -lpthread 

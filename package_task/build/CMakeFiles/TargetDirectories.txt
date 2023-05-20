@@ -1,0 +1,3 @@
+/home/libo/Modern_Cplusplus/concurrency_book_code/package_task/build/CMakeFiles/rebuild_cache.dir
+/home/libo/Modern_Cplusplus/concurrency_book_code/package_task/build/CMakeFiles/edit_cache.dir
+/home/libo/Modern_Cplusplus/concurrency_book_code/package_task/build/CMakeFiles/package_task.dir

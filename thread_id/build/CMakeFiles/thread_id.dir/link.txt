@@ -1,0 +1,1 @@
+/usr/bin/c++  -std=c++14 -O3 -g   CMakeFiles/thread_id.dir/thread_id.cpp.o  -o thread_id  -lpthread 

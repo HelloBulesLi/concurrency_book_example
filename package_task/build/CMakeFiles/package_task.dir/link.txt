@@ -1,0 +1,1 @@
+/usr/bin/c++  -std=c++17 -O3 -g   CMakeFiles/package_task.dir/package_task.cpp.o  -o package_task  -lpthread 

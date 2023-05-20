@@ -1,0 +1,1 @@
+/usr/bin/c++  -std=c++14 -O3 -g   CMakeFiles/queue_concurrency.dir/queue_concurrency.cpp.o  -o queue_concurrency  -lpthread 

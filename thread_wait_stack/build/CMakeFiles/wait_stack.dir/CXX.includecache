@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/libo/Modern_Cplusplus/concurrency_book_code/thread_wait_stack/wait_stack.cpp
+queue
+-
+mutex
+-
+condition_variable
+-
+memory
+-
+thread
+-
+iostream
+-
+chrono
+-
+

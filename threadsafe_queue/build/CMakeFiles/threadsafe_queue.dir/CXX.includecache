@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/libo/Modern_Cplusplus/concurrency_book_code/threadsafe_queue/threadsafe_queue.cpp
+mutex
+-
+condition_variable
+-
+queue
+-
+memory
+-
+thread
+-
+iostream
+-
+

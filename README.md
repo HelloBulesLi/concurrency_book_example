@@ -1,6 +1,5 @@
 # concurrency_book_example
 
-# Introudution
 ***
 ## Introduction
 $\qquad$ this program give some C++ examples for the book: C++ Concurrency in Action 2nd Edition.pdf

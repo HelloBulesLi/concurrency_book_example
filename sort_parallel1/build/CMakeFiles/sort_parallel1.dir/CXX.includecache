@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/libo/Modern_Cplusplus/concurrency_book_code/sort_parallel1/sort_parallel1.cpp
+thread
+-
+vector
+-
+future
+-
+list
+-
+stack
+-
+iostream
+-
+memory
+-
+algorithm
+-
+

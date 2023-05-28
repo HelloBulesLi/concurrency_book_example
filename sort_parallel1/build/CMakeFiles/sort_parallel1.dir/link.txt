@@ -1,0 +1,1 @@
+/usr/bin/c++  -std=c++17 -O3 -g   CMakeFiles/sort_parallel1.dir/sort_parallel1.cpp.o  -o sort_parallel1  -lpthread 

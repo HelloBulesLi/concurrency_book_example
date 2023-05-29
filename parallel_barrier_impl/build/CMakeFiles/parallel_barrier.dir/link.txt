@@ -1,0 +1,1 @@
+/usr/bin/c++  -std=c++17 -O3 -g   CMakeFiles/parallel_barrier.dir/parallel_barrier.cpp.o  -o parallel_barrier  -lpthread 

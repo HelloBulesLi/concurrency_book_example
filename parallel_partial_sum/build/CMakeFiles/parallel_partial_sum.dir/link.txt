@@ -1,0 +1,1 @@
+/usr/bin/c++  -std=c++17 -O3 -g   CMakeFiles/parallel_partial_sum.dir/parallel_partial_sum.cpp.o  -o parallel_partial_sum  -lpthread 

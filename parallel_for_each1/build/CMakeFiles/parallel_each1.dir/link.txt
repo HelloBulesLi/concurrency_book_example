@@ -1,0 +1,1 @@
+/usr/bin/c++  -std=c++17 -O3 -g   CMakeFiles/parallel_each1.dir/parallel_each1.cpp.o  -o parallel_each1  -lpthread 

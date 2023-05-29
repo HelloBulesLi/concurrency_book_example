@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/libo/Modern_Cplusplus/concurrency_book_code/parallel_barrier_impl/parallel_barrier.cpp
+atomic
+-
+thread
+-
+vector
+-
+iostream
+-
+algorithm
+-
+numeric
+-
+

@@ -1,0 +1,3 @@
+/home/libo/Modern_Cplusplus/concurrency_book_code/parallel_barrier_impl/build/CMakeFiles/rebuild_cache.dir
+/home/libo/Modern_Cplusplus/concurrency_book_code/parallel_barrier_impl/build/CMakeFiles/edit_cache.dir
+/home/libo/Modern_Cplusplus/concurrency_book_code/parallel_barrier_impl/build/CMakeFiles/parallel_barrier.dir

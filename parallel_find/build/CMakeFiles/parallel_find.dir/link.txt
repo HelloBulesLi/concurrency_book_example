@@ -1,0 +1,1 @@
+/usr/bin/c++  -std=c++17 -O3 -g   CMakeFiles/parallel_find.dir/parallel_find.cpp.o  -o parallel_find  -lpthread 

@@ -1,0 +1,1 @@
+/usr/bin/c++  -std=c++17 -O3 -g   CMakeFiles/parallel_accum3.dir/parallel_accum3.cpp.o  -o parallel_accum3  -lpthread 

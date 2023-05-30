@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/libo/Modern_Cplusplus/concurrency_book_code/thread_pool_interruptable/thread_pool_interrupt.cpp
+deque
+-
+future
+-
+memory
+-
+functional
+-
+iostream
+-
+vector
+-
+algorithm
+-
+queue
+-
+numeric
+-
+list
+-
+experimental/deque
+-
+

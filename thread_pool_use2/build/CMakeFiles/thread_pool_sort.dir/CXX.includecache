@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/libo/Modern_Cplusplus/concurrency_book_code/thread_pool_use2/thread_pool_sort.cpp
+deque
+-
+future
+-
+memory
+-
+functional
+-
+iostream
+-
+vector
+-
+algorithm
+-
+queue
+-
+numeric
+-
+list
+-
+

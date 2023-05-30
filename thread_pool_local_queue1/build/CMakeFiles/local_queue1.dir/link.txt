@@ -1,0 +1,1 @@
+/usr/bin/c++  -std=c++17 -O3 -g   CMakeFiles/local_queue1.dir/local_queue1.cpp.o  -o local_queue1  -lpthread 

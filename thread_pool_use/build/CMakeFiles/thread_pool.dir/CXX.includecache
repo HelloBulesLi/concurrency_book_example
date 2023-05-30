@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/libo/Modern_Cplusplus/concurrency_book_code/thread_pool_use/thread_pool.cpp
+thread
+-
+vector
+-
+atomic
+-
+queue
+-
+functional
+-
+iostream
+-
+mutex
+-
+condition_variable
+-
+algorithm
+-
+
